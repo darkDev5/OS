@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.darkdev5.lib.os.keyboard","l":"Keyboard"},{"p":"org.darkdev5.lib.os","l":"OS"},{"p":"org.darkdev5.lib.os.partition","l":"Partition"},{"p":"org.darkdev5.lib.os.process","l":"ProcessManager"},{"p":"org.darkdev5.lib.os.options","l":"SystemTimeDate"}];updateSearchResults();

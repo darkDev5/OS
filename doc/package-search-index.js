@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.darkdev5.lib.os"},{"l":"org.darkdev5.lib.os.keyboard"},{"l":"org.darkdev5.lib.os.options"},{"l":"org.darkdev5.lib.os.partition"},{"l":"org.darkdev5.lib.os.process"}];updateSearchResults();
