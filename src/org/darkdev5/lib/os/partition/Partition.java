@@ -11,10 +11,9 @@ import java.io.File;
  * @version 1.0
  * @since 17
  */
-public @Getter
-@Setter class Partition {
-    private final FileSystemView fsv;
-    private String driveLetter;
+public class Partition {
+    private @Getter final FileSystemView fsv;
+    private @Setter @Getter String driveLetter;
 
     public Partition(String driveLetter) {
         this.driveLetter = driveLetter;
